@@ -1,0 +1,15 @@
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\bin\Debug\net6.0\Calcularor specs finals.exe
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\bin\Debug\net6.0\Calcularor specs finals.deps.json
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\bin\Debug\net6.0\Calcularor specs finals.runtimeconfig.json
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\bin\Debug\net6.0\Calcularor specs finals.dll
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\bin\Debug\net6.0\Calcularor specs finals.pdb
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\obj\Debug\net6.0\Calcularor specs finals.csproj.AssemblyReference.cache
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\obj\Debug\net6.0\Calcularor specs finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\obj\Debug\net6.0\Calcularor specs finals.AssemblyInfoInputs.cache
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\obj\Debug\net6.0\Calcularor specs finals.AssemblyInfo.cs
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\obj\Debug\net6.0\Calcularor specs finals.csproj.CoreCompileInputs.cache
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\obj\Debug\net6.0\Calcularor specs finals.dll
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\obj\Debug\net6.0\refint\Calcularor specs finals.dll
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\obj\Debug\net6.0\Calcularor specs finals.pdb
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\obj\Debug\net6.0\Calcularor specs finals.genruntimeconfig.cache
+C:\Users\dipol\source\repos\Calcularor specs finals\Calcularor specs finals\obj\Debug\net6.0\ref\Calcularor specs finals.dll
